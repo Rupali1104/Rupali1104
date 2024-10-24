@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Rupali R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupali1104&label=Profile%20views&color=0e75b6&style=flat" alt="rupali1104" /> </p>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Javascript and ReactJS**
 
-- 👨‍💻 All of my information is available at [https://portfolio-rupali11.netlify.app/](https://portfolio-rupali11.netlify.app/)
+- 👨‍💻 This is my portfolio :[https://portfolio-rupali11.netlify.app/](https://portfolio-rupali11.netlify.app/)
 
 - 📫 How to reach me **rupaliii739@gmail.com**
 
@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupali1104&" alt="rupali1104" /></p>
 
+[![An image of @rupali1104's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupali1104)](https://holopin.io/@rupali1104)
